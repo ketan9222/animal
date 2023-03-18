@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ones
 two
 three
@@ -6,3 +7,5 @@ five
 six
 seven
 eight
+=======
+>>>>>>> parent of ea203c6 (two added)
